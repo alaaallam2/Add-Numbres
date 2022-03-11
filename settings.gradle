@@ -1,0 +1,2 @@
+rootProject.name = "kotlintask2"
+include ':app'
